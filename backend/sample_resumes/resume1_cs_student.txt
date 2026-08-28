@@ -1,0 +1,37 @@
+Aditi Sharma
+aditi.sharma@example.com | +91-98765-43210 | Chennai, India
+linkedin.com/in/aditisharma | github.com/aditisharma
+
+EDUCATION
+B.Tech in Computer Science, SSN College of Engineering, Chennai
+Aug 2022 - May 2026 | CGPA: 8.7/10
+
+SKILLS
+Languages: Python, Java, C++, SQL
+Frameworks: FastAPI, React, Flask
+Tools: Git, Docker, Postman
+Databases: PostgreSQL, MongoDB
+Soft Skills: Team leadership, Public speaking
+
+EXPERIENCE
+Software Engineering Intern, Zoho Corporation
+May 2025 - Jul 2025
+- Built a REST API in FastAPI to automate internal ticket routing, reducing manual triage time by 30%.
+- Wrote unit tests achieving 85% coverage using pytest.
+- Collaborated with a team of 4 engineers in an Agile sprint cycle.
+
+Teaching Assistant, Data Structures Course, SSN College of Engineering
+Jan 2025 - Apr 2025
+- Held weekly lab sessions for 60 students, graded assignments, and held office hours.
+
+PROJECTS
+Campus Marketplace App - github.com/aditisharma/campus-marketplace
+A full-stack marketplace app for students to buy/sell used textbooks and gadgets.
+Technologies: React, Node.js, MongoDB, Socket.io
+
+Resume Screener Bot - github.com/aditisharma/resume-screener
+An LLM-powered tool that screens resumes against job descriptions and outputs a match score.
+Technologies: Python, OpenAI API, Streamlit
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2024)

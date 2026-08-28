@@ -1,0 +1,25 @@
+PRIYA NATARAJAN
+
+Hi! I'm a final year B.Sc Data Science student passionate about ML and analytics.
+Email: priya.n@example.com Phone: 9000012345
+
+what i know: python (pandas, numpy, scikit-learn), R, SQL, Power BI, Tableau, basic knowledge
+of TensorFlow and PyTorch. also comfortable with Excel and git.
+
+school stuff -
+Loyola College, Chennai — B.Sc Data Science, 2023-2026, CGPA 8.2
+St. Mary's Higher Secondary School, 2021-2023
+
+experience:
+- Data Analyst Intern at Freshworks (Jan 2026 - present) -> cleaning datasets, building
+  dashboards in Power BI, presenting weekly insights to the marketing team
+- Volunteer data analyst for a local NGO, built a simple donor-tracking spreadsheet model,
+  Sept 2024 - Dec 2024, unpaid
+
+things I built:
+1) Movie Recommendation Engine (Python, scikit-learn, Flask) - a content based recommender,
+   put it on github.com/priyan/movie-rec
+2) COVID Data Dashboard - Tableau, public dataset from data.gov, visualized case trends across
+   Indian states
+
+awards: won 2nd place in college hackathon 2025

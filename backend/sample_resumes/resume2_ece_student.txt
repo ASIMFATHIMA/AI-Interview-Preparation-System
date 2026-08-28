@@ -1,0 +1,40 @@
+Rahul Verma
+rahul.verma99@example.com | +91-91234-56789
+
+OBJECTIVE
+Third-year Electronics and Communication Engineering student seeking a hardware/embedded
+systems internship to apply skills in microcontroller programming and IoT.
+
+ACADEMIC BACKGROUND
+Anna University, B.E. Electronics and Communication Engineering
+2022 - 2026
+Current CGPA: 7.9
+
+Higher Secondary Certificate, St. Joseph's Matriculation School
+2020 - 2022
+
+TECHNICAL SKILLS
+- Embedded C, Python, MATLAB
+- Arduino, Raspberry Pi, STM32
+- Circuit design: Eagle CAD, Multisim
+- Communication protocols: I2C, SPI, UART
+
+WORK / INTERNSHIP EXPERIENCE
+Embedded Systems Intern - Bosch (Bangalore)
+June 2024 to August 2024
+Responsibilities included developing firmware for a sensor-fusion module used in ADAS testing,
+debugging CAN bus communication issues, and documenting test results for the QA team.
+
+PROJECTS
+Smart Irrigation System
+Designed and built an IoT-based irrigation system using soil moisture sensors, an ESP32
+microcontroller, and a mobile app dashboard. Reduced water usage by an estimated 20% in test
+plots.
+Tools used: ESP32, Blynk, C++
+
+Home Automation via Voice Commands
+Built a voice-controlled home automation prototype using Raspberry Pi and Google Assistant SDK.
+
+EXTRA-CURRICULAR
+Core member, Robotics Club, Anna University
+Volunteer, National Service Scheme (NSS)

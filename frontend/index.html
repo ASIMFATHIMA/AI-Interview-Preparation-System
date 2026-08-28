@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Internship Co-Pilot — Student Profile</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Internship Application Co-Pilot</h1>
+    <p class="subtitle">Milestone 1 — Profile Creation &amp; Resume Parsing</p>
+
+    <section class="card">
+      <h2>1. Create Your Profile</h2>
+      <form id="profile-form">
+        <label>Full Name<input type="text" id="name" required /></label>
+        <label>Email<input type="email" id="email" required /></label>
+        <label>Phone (optional)<input type="text" id="phone" /></label>
+        <button type="submit">Create Profile</button>
+      </form>
+      <div id="profile-result" class="result"></div>
+    </section>
+
+    <section class="card" id="upload-section" style="display:none;">
+      <h2>2. Upload Your Resume</h2>
+      <form id="upload-form">
+        <input type="file" id="resume-file" accept=".pdf,.docx,.txt" required />
+        <button type="submit">Upload &amp; Parse Resume</button>
+      </form>
+      <div id="upload-result" class="result"></div>
+    </section>
+
+    <section class="card" id="profile-view-section" style="display:none;">
+      <h2>3. Your Structured Candidate Profile</h2>
+      <div id="profile-view"></div>
+    </section>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

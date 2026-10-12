@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Profile 1 — AI/ML Student",
+    "skills": ["Python", "Machine Learning", "Pandas", "NumPy", "Scikit-learn", "NLP"],
+    "field_of_study": "Artificial Intelligence & Data Science",
+    "education": [
+      {
+        "degree": "B.Tech Computer Science and Artificial Intelligence",
+        "institution": "National Institute of Technology",
+        "year": "2024"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "Predictive Machine Learning Modeling System",
+        "description": "Developed regression and classification models using Scikit-learn, Pandas, and NumPy."
+      },
+      {
+        "project_name": "NLP Text Classification and Entity Extraction",
+        "description": "Implemented multilingual tokenization and transformer embeddings for sentiment analysis."
+      }
+    ],
+    "experience": [],
+    "expected_domains": ["Artificial Intelligence", "Machine Learning", "NLP", "Data Science"]
+  },
+  {
+    "name": "Profile 2 — Python Backend Student",
+    "skills": ["Python", "FastAPI", "Django", "SQL", "PostgreSQL", "REST API"],
+    "field_of_study": "Software Engineering",
+    "education": [
+      {
+        "degree": "B.Tech Computer Science and Engineering",
+        "institution": "State Technical University",
+        "year": "2024"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "High-Concurrency REST API with FastAPI and PostgreSQL",
+        "description": "Designed normalized relational models, async endpoints, and Redis caching."
+      },
+      {
+        "project_name": "Django E-Commerce Backend Engine",
+        "description": "Implemented JWT authentication, transaction management, and automated unit tests."
+      }
+    ],
+    "experience": [],
+    "expected_domains": ["Python Development", "Backend Development", "Software Engineering"]
+  },
+  {
+    "name": "Profile 3 — Data Science Student",
+    "skills": ["Python", "Pandas", "NumPy", "SQL", "Statistics", "Data Visualization"],
+    "field_of_study": "Data Science",
+    "education": [
+      {
+        "degree": "B.Sc. Data Science and Statistics",
+        "institution": "University School of Computational Sciences",
+        "year": "2024"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "Customer Lifetime Value Statistical Modeling",
+        "description": "Conducted hypothesis testing, ANOVA, and customer cohort analysis using Pandas and Seaborn."
+      },
+      {
+        "project_name": "SQL Analytics and Dashboard Pipeline",
+        "description": "Wrote complex window functions and CTEs to extract KPIs and visualize trends."
+      }
+    ],
+    "experience": [],
+    "expected_domains": ["Data Science", "Data Analytics", "Machine Learning"]
+  },
+  {
+    "name": "Profile 4 — Full Stack Development Student",
+    "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS", "REST API", "MongoDB"],
+    "field_of_study": "Information Technology",
+    "education": [
+      {
+        "degree": "B.Tech Information Technology",
+        "institution": "Institute of Engineering and Technology",
+        "year": "2024"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "Interactive Collaboration Portal with React and Node.js",
+        "description": "Crafted responsive React UI components and Express.js REST API with MongoDB storage."
+      },
+      {
+        "project_name": "Responsive Web Application and Component Library",
+        "description": "Designed accessible UI layouts and mobile-first CSS styling."
+      }
+    ],
+    "experience": [],
+    "expected_domains": ["Full Stack Development", "Frontend Development", "Software Engineering"]
+  },
+  {
+    "name": "Profile 5 — Generative AI Student",
+    "skills": ["Python", "Generative AI", "LLM", "Prompt Engineering", "RAG", "LangChain", "Vector Database"],
+    "field_of_study": "Artificial Intelligence",
+    "education": [
+      {
+        "degree": "B.Tech Artificial Intelligence and Machine Learning",
+        "institution": "Apex College of Engineering",
+        "year": "2024"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "RAG-Based Enterprise Knowledge Agent",
+        "description": "Implemented chunking, dense vector retrieval with FAISS, and prompt orchestration with LangChain."
+      },
+      {
+        "project_name": "Autonomous Agent with Tool Calling",
+        "description": "Built multi-turn conversational agents with structured JSON tool validation."
+      }
+    ],
+    "experience": [],
+    "expected_domains": ["Generative AI", "Artificial Intelligence", "NLP", "Machine Learning"]
+  }
+]

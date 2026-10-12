@@ -1,0 +1,239 @@
+{
+  "retrieval": {
+    "precision_at_5": 1.0,
+    "recall_at_5": 1.0,
+    "mrr": 1.0
+  },
+  "profiles": [
+    {
+      "profile": "Profile 1 \u2014 AI/ML Student",
+      "query": "B.Tech Computer Science and Artificial Intelligence student with Python, Machine Learning, Pandas, NumPy, Scikit-learn, NLP. Projects: Predictive Machine Learning Modeling System; NLP Text Classification and Entity Extraction. Experience: early-career experience. Looking for relevant internship or entry-level roles.",
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "total_retrieved": 5,
+      "relevant_retrieved": 5,
+      "top_hits": [
+        {
+          "job_id": "JOB167",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "QuantumLeaf AI",
+          "similarity_score": 0.6264,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB152",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "Riverstone Technologies",
+          "similarity_score": 0.6264,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB137",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "Apex DataWorks",
+          "similarity_score": 0.6264,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB122",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "CloudMosaic Technologies",
+          "similarity_score": 0.6264,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB107",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "QuantumLeaf AI",
+          "similarity_score": 0.6264,
+          "is_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 2 \u2014 Python Backend Student",
+      "query": "B.Tech Computer Science and Engineering student with Python, FastAPI, Django, SQL, PostgreSQL, REST API. Projects: High-Concurrency REST API with FastAPI and PostgreSQL; Django E-Commerce Backend Engine. Experience: early-career experience. Looking for relevant internship or entry-level roles.",
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "total_retrieved": 5,
+      "relevant_retrieved": 5,
+      "top_hits": [
+        {
+          "job_id": "JOB173",
+          "job_title": "Backend Engineering Intern",
+          "company": "CivicByte Labs",
+          "similarity_score": 0.7736,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB158",
+          "job_title": "Backend Engineering Intern",
+          "company": "Prism Cloud Solutions",
+          "similarity_score": 0.7736,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB143",
+          "job_title": "Backend Engineering Intern",
+          "company": "DataSpring Systems",
+          "similarity_score": 0.7736,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB128",
+          "job_title": "Backend Engineering Intern",
+          "company": "CodeHarbor India",
+          "similarity_score": 0.7736,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB113",
+          "job_title": "Backend Engineering Intern",
+          "company": "CivicByte Labs",
+          "similarity_score": 0.7736,
+          "is_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 3 \u2014 Data Science Student",
+      "query": "B.Sc. Data Science and Statistics student with Python, Pandas, NumPy, SQL, Statistics, Data Visualization. Projects: Customer Lifetime Value Statistical Modeling; SQL Analytics and Dashboard Pipeline. Experience: early-career experience. Looking for relevant internship or entry-level roles.",
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "total_retrieved": 5,
+      "relevant_retrieved": 5,
+      "top_hits": [
+        {
+          "job_id": "JOB168",
+          "job_title": "Data Science Intern",
+          "company": "CivicByte Labs",
+          "similarity_score": 0.6653,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB153",
+          "job_title": "Data Science Intern",
+          "company": "Prism Cloud Solutions",
+          "similarity_score": 0.6653,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB138",
+          "job_title": "Data Science Intern",
+          "company": "DataSpring Systems",
+          "similarity_score": 0.6653,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB123",
+          "job_title": "Data Science Intern",
+          "company": "CodeHarbor India",
+          "similarity_score": 0.6653,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB108",
+          "job_title": "Data Science Intern",
+          "company": "CivicByte Labs",
+          "similarity_score": 0.6653,
+          "is_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 4 \u2014 Full Stack Development Student",
+      "query": "B.Tech Information Technology student with JavaScript, React, Node.js, HTML, CSS, REST API, MongoDB. Projects: Interactive Collaboration Portal with React and Node.js; Responsive Web Application and Component Library. Experience: early-career experience. Looking for relevant internship or entry-level roles.",
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "total_retrieved": 5,
+      "relevant_retrieved": 5,
+      "top_hits": [
+        {
+          "job_id": "JOB174",
+          "job_title": "Full Stack Developer Intern",
+          "company": "CoreLogic Infotech",
+          "similarity_score": 0.7163,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB159",
+          "job_title": "Full Stack Developer Intern",
+          "company": "Vertex Digital",
+          "similarity_score": 0.7163,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB144",
+          "job_title": "Full Stack Developer Intern",
+          "company": "Aster Analytics",
+          "similarity_score": 0.7163,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB129",
+          "job_title": "Full Stack Developer Intern",
+          "company": "SignalForge Labs",
+          "similarity_score": 0.7163,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB114",
+          "job_title": "Full Stack Developer Intern",
+          "company": "CoreLogic Infotech",
+          "similarity_score": 0.7163,
+          "is_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 5 \u2014 Generative AI Student",
+      "query": "B.Tech Artificial Intelligence and Machine Learning student with Python, Generative AI, LLM, Prompt Engineering, RAG, LangChain, Vector Database. Projects: RAG-Based Enterprise Knowledge Agent; Autonomous Agent with Tool Calling. Experience: early-career experience. Looking for relevant internship or entry-level roles.",
+      "precision_at_k": 1.0,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "total_retrieved": 5,
+      "relevant_retrieved": 5,
+      "top_hits": [
+        {
+          "job_id": "JOB170",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "BlueOrbit Labs",
+          "similarity_score": 0.6983,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB155",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "BrightStack Innovations",
+          "similarity_score": 0.6983,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB140",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "OpenTrail Systems",
+          "similarity_score": 0.6983,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB125",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "Aura Intelligence",
+          "similarity_score": 0.6983,
+          "is_relevant": true
+        },
+        {
+          "job_id": "JOB110",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "BlueOrbit Labs",
+          "similarity_score": 0.6983,
+          "is_relevant": true
+        }
+      ]
+    }
+  ]
+}

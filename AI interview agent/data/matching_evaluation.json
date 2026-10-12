@@ -1,0 +1,765 @@
+{
+  "matching": {
+    "average_match_score": 73.12,
+    "top_rank_relevance": 1.0,
+    "total_evaluations": 25
+  },
+  "profiles": [
+    {
+      "profile": "Profile 1 \u2014 AI/ML Student",
+      "top_match": {
+        "job_id": "JOB167",
+        "job_title": "Machine Learning Engineer Intern",
+        "company": "QuantumLeaf AI",
+        "match_score": 74.0,
+        "recommendation": "Good Match",
+        "matched_skills": [
+          "Python",
+          "Machine Learning",
+          "Scikit-learn",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing_required_skills": [],
+        "component_scores": {
+          "required_skills": 1.0,
+          "preferred_skills": 0.0,
+          "education": 1.0,
+          "experience": 0.9,
+          "projects": 0.8,
+          "responsibilities": 0.2
+        },
+        "is_domain_relevant": true
+      },
+      "average_profile_score": 74.0,
+      "matches": [
+        {
+          "job_id": "JOB167",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "QuantumLeaf AI",
+          "match_score": 74.0,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.8,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB152",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "Riverstone Technologies",
+          "match_score": 74.0,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.8,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB137",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "Apex DataWorks",
+          "match_score": 74.0,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.8,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB122",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "CloudMosaic Technologies",
+          "match_score": 74.0,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.8,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB107",
+          "job_title": "Machine Learning Engineer Intern",
+          "company": "QuantumLeaf AI",
+          "match_score": 74.0,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.8,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 2 \u2014 Python Backend Student",
+      "top_match": {
+        "job_id": "JOB173",
+        "job_title": "Backend Engineering Intern",
+        "company": "CivicByte Labs",
+        "match_score": 68.7,
+        "recommendation": "Good Match",
+        "matched_skills": [
+          "Python",
+          "FastAPI",
+          "SQL",
+          "PostgreSQL",
+          "REST API"
+        ],
+        "missing_required_skills": [],
+        "component_scores": {
+          "required_skills": 1.0,
+          "preferred_skills": 0.0,
+          "education": 1.0,
+          "experience": 0.9,
+          "projects": 0.273,
+          "responsibilities": 0.2
+        },
+        "is_domain_relevant": true
+      },
+      "average_profile_score": 68.7,
+      "matches": [
+        {
+          "job_id": "JOB173",
+          "job_title": "Backend Engineering Intern",
+          "company": "CivicByte Labs",
+          "match_score": 68.7,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "FastAPI",
+            "SQL",
+            "PostgreSQL",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.273,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB158",
+          "job_title": "Backend Engineering Intern",
+          "company": "Prism Cloud Solutions",
+          "match_score": 68.7,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "FastAPI",
+            "SQL",
+            "PostgreSQL",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.273,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB143",
+          "job_title": "Backend Engineering Intern",
+          "company": "DataSpring Systems",
+          "match_score": 68.7,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "FastAPI",
+            "SQL",
+            "PostgreSQL",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.273,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB128",
+          "job_title": "Backend Engineering Intern",
+          "company": "CodeHarbor India",
+          "match_score": 68.7,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "FastAPI",
+            "SQL",
+            "PostgreSQL",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.273,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB113",
+          "job_title": "Backend Engineering Intern",
+          "company": "CivicByte Labs",
+          "match_score": 68.7,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "FastAPI",
+            "SQL",
+            "PostgreSQL",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.273,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 3 \u2014 Data Science Student",
+      "top_match": {
+        "job_id": "JOB168",
+        "job_title": "Data Science Intern",
+        "company": "CivicByte Labs",
+        "match_score": 71.5,
+        "recommendation": "Good Match",
+        "matched_skills": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "SQL",
+          "Statistics"
+        ],
+        "missing_required_skills": [],
+        "component_scores": {
+          "required_skills": 1.0,
+          "preferred_skills": 0.0,
+          "education": 1.0,
+          "experience": 0.9,
+          "projects": 0.545,
+          "responsibilities": 0.2
+        },
+        "is_domain_relevant": true
+      },
+      "average_profile_score": 71.5,
+      "matches": [
+        {
+          "job_id": "JOB168",
+          "job_title": "Data Science Intern",
+          "company": "CivicByte Labs",
+          "match_score": 71.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Statistics"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.545,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB153",
+          "job_title": "Data Science Intern",
+          "company": "Prism Cloud Solutions",
+          "match_score": 71.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Statistics"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.545,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB138",
+          "job_title": "Data Science Intern",
+          "company": "DataSpring Systems",
+          "match_score": 71.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Statistics"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.545,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB123",
+          "job_title": "Data Science Intern",
+          "company": "CodeHarbor India",
+          "match_score": 71.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Statistics"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.545,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB108",
+          "job_title": "Data Science Intern",
+          "company": "CivicByte Labs",
+          "match_score": 71.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Statistics"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.0,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.545,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 4 \u2014 Full Stack Development Student",
+      "top_match": {
+        "job_id": "JOB174",
+        "job_title": "Full Stack Developer Intern",
+        "company": "CoreLogic Infotech",
+        "match_score": 73.9,
+        "recommendation": "Good Match",
+        "matched_skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "HTML",
+          "CSS",
+          "REST API"
+        ],
+        "missing_required_skills": [],
+        "component_scores": {
+          "required_skills": 1.0,
+          "preferred_skills": 0.25,
+          "education": 1.0,
+          "experience": 0.9,
+          "projects": 0.417,
+          "responsibilities": 0.2
+        },
+        "is_domain_relevant": true
+      },
+      "average_profile_score": 73.9,
+      "matches": [
+        {
+          "job_id": "JOB174",
+          "job_title": "Full Stack Developer Intern",
+          "company": "CoreLogic Infotech",
+          "match_score": 73.9,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "HTML",
+            "CSS",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.25,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.417,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB159",
+          "job_title": "Full Stack Developer Intern",
+          "company": "Vertex Digital",
+          "match_score": 73.9,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "HTML",
+            "CSS",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.25,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.417,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB144",
+          "job_title": "Full Stack Developer Intern",
+          "company": "Aster Analytics",
+          "match_score": 73.9,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "HTML",
+            "CSS",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.25,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.417,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB129",
+          "job_title": "Full Stack Developer Intern",
+          "company": "SignalForge Labs",
+          "match_score": 73.9,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "HTML",
+            "CSS",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.25,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.417,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB114",
+          "job_title": "Full Stack Developer Intern",
+          "company": "CoreLogic Infotech",
+          "match_score": 73.9,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "HTML",
+            "CSS",
+            "REST API"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.25,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.417,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        }
+      ]
+    },
+    {
+      "profile": "Profile 5 \u2014 Generative AI Student",
+      "top_match": {
+        "job_id": "JOB065",
+        "job_title": "Generative AI & LLM Intern",
+        "company": "Aura Intelligence",
+        "match_score": 77.5,
+        "recommendation": "Good Match",
+        "matched_skills": [
+          "Python",
+          "Generative AI",
+          "LLM",
+          "Prompt Engineering",
+          "RAG"
+        ],
+        "missing_required_skills": [],
+        "component_scores": {
+          "required_skills": 1.0,
+          "preferred_skills": 0.5,
+          "education": 1.0,
+          "experience": 0.9,
+          "projects": 0.4,
+          "responsibilities": 0.2
+        },
+        "is_domain_relevant": true
+      },
+      "average_profile_score": 77.5,
+      "matches": [
+        {
+          "job_id": "JOB065",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "Aura Intelligence",
+          "match_score": 77.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Generative AI",
+            "LLM",
+            "Prompt Engineering",
+            "RAG"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.5,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.4,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB170",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "BlueOrbit Labs",
+          "match_score": 77.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Generative AI",
+            "LLM",
+            "Prompt Engineering",
+            "RAG"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.5,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.4,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB155",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "BrightStack Innovations",
+          "match_score": 77.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Generative AI",
+            "LLM",
+            "Prompt Engineering",
+            "RAG"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.5,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.4,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB140",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "OpenTrail Systems",
+          "match_score": 77.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Generative AI",
+            "LLM",
+            "Prompt Engineering",
+            "RAG"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.5,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.4,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        },
+        {
+          "job_id": "JOB125",
+          "job_title": "Generative AI & LLM Intern",
+          "company": "Aura Intelligence",
+          "match_score": 77.5,
+          "recommendation": "Good Match",
+          "matched_skills": [
+            "Python",
+            "Generative AI",
+            "LLM",
+            "Prompt Engineering",
+            "RAG"
+          ],
+          "missing_required_skills": [],
+          "component_scores": {
+            "required_skills": 1.0,
+            "preferred_skills": 0.5,
+            "education": 1.0,
+            "experience": 0.9,
+            "projects": 0.4,
+            "responsibilities": 0.2
+          },
+          "is_domain_relevant": true
+        }
+      ]
+    }
+  ]
+}
